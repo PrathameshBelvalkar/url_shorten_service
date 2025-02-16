@@ -1,5 +1,3 @@
-Here is the content for the README.md file for the URL Shortening Service project:
-
 # [URL Shortening Service](https://roadmap.sh/projects/url-shortening-service)
 
 ## Overview
